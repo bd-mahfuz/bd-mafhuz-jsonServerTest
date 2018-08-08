@@ -1,1 +1,23 @@
 
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Keyboard",
+      "category": "Electronics",
+      "price": 3444
+    },
+    {
+      "id": 3,
+      "name": "Screen",
+      "category": "Electronics",
+      "price": 344
+    },
+    {
+      "name": "Mouse",
+      "category": "Electronics",
+      "id": 4,
+      "price": 3444
+    }
+  ]
+}
